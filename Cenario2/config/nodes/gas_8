@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:8
+device_longitude:-8.414583206176758
+device_latitude:41.558250734488226
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:Temperatura2.evt

@@ -1,0 +1,6 @@
+1º - download da plataforma CupCarbon através do link http://www.cupcarbon.com/ ;
+2º - download dos cenários construidos disponíveis no link https://github.com/stephanefernandes/Proj_Diss_CupCarbon ;
+3º - abrir a ferramenta CupCarbon -> Project -> Open project -> Pasta do Cenario 1 (2 ou 3) -> Cenario1.cup ;
+4º - selecionar na aba lateral esquerda a opção "Marker Parameters" arrastar para cima e selecionar "Draw all routes" por forma a apresentar todas as rotas do cenário;
+5º - item selecionar na aba lateral esquerda a opção "Simulation Parameters", selecionar a checkbox "Mobility/Events" caso não se encontre selecionada;
+6º - selecionar na aba superior a opção Simulation -> Run Simulation para simular o cenário.

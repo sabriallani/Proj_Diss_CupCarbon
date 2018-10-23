@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:83
+device_longitude:-8.401955366134644
+device_latitude:41.55409199756836
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:70.0
+device_script_file_name:transmitter6.csc

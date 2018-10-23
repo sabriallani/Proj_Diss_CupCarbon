@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:75
+device_longitude:-8.398082256317139
+device_latitude:41.54860815731614
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:70.0
+device_script_file_name:receiver.csc
