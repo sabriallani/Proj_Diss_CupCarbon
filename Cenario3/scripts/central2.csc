@@ -52,10 +52,10 @@ if($pef == B)
 	end
 	print $total1 $total2 
 	if($total1 > $total2)
-	data d B SENSOR25 route6
+	data d B SENSOR25 route4
 		send $d 225
 	else
-	data d B SENSOR25 route7
+	data d B SENSOR25 route5
 		send $d 225
 	
 end
